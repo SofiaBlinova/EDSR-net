@@ -1,5 +1,5 @@
 # EDSR-net
-The implementation of EDSR network in different color spaces.//
+The implementation of EDSR network in different color spaces.\\
 In this work an EDSR network is implemented based on the article "Enhanced Deep Residual Networks for Single Image Super-Resolution" (https://arxiv.org/abs/1707.02921). It is implemented in 3 variations for RGB, XYZ and YCbCr color spaces. Timofty dataset is used as a train dataset, Set5 as a test dataset.
 ## Obtained results in different color spaces
 | Color space           | SSIM  | PSNR   |
