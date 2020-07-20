@@ -10,3 +10,4 @@ In this work an EDSR network is implemented based on the article "Enhanced Deep 
 | Bicubic interpolation | 0.860 | 31.958 |
 
 For YCbCr color space I evaluate PSNR on the Y channel only due to article
+![Alt text](EDSR-net/Results/baby_bicubic?raw=true "Bicubic interpolation")
