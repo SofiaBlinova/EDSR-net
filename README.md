@@ -11,8 +11,8 @@ In this work an EDSR network is implemented based on the article "Enhanced Deep 
 
 For YCbCr color space I evaluate PSNR on the Y channel only due to article.  
 ### Test image "Butterfly"
-![picture](https://github.com/SofiaBlinova/EDSR-net/blob/master/Results/butterfly_GT.png?raw=true "Ground True")
-![Alt text](https://github.com/SofiaBlinova/EDSR-net/blob/master/Results/butterfly_bicubic.png?raw=true "Bicubic interpolation")
-![Alt text](https://github.com/SofiaBlinova/EDSR-net/blob/master/Results/butterfly_EDSR_RGB.png?raw=true "EDSR RGB")
-![Alt text](https://github.com/SofiaBlinova/EDSR-net/blob/master/Results/butterfly_EDSR_XYZ.png?raw=true "EDSR XYZ")
-![Alt text](https://github.com/SofiaBlinova/EDSR-net/blob/master/Results/butterfly_EDSR_YCbCr.png?raw=true "EDSR YCbCr")
+![picture](https://github.com/SofiaBlinova/EDSR-net/blob/master/test_butterfly/GT_pic.png?raw=true "Ground True")
+![Alt text](https://github.com/SofiaBlinova/EDSR-net/blob/master/test_butterfly/Bicubic_pic.png?raw=true "Bicubic interpolation")
+![Alt text](https://github.com/SofiaBlinova/EDSR-net/blob/master/test_butterfly/RGB_pic.png?raw=true "EDSR RGB")
+![Alt text](https://github.com/SofiaBlinova/EDSR-net/blob/master/test_butterfly/XYZ_pic.png?raw=true "EDSR XYZ")
+![Alt text](https://github.com/SofiaBlinova/EDSR-net/blob/master/test_butterfly/YCbCr_pic.png?raw=true "EDSR YCbCr")
